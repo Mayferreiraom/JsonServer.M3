@@ -1,0 +1,74 @@
+{
+    "Medicamentos": [
+      {
+        "tipos": "antibioticos",
+        "corredor": "1A",
+        "id": 1
+      },
+      {
+        "tipos": "xaropes",
+        "corredor": "1B",
+        "id": 2
+      },
+      {
+        "tipos": "vitaminas",
+        "corredor": "1C",
+        "id": 3
+  
+      },
+      {
+        "tipos": "analgésicos",
+        "corredor": "1D",
+        "id": 4
+        
+      }
+    ],
+    "CosmeticosCapilares": [
+      {
+        "tintura": "nielly gold",
+        "cor": "marsalla",
+        "id": 5
+      },
+      {
+        "tintura": "natucor",
+        "cor": "preto",
+        "id": 6
+      },
+      {
+        "tintura": "salon line",
+        "cor": "loiro escuro",
+        "id": 7
+      },
+      {
+        "tintura": "maxtom",
+        "cor": "castanho médio",
+        "id": 8
+      }
+    ],
+    "Fraldas": [
+      {
+        "marcas": "Babysec",
+        "tamanho": "P",
+        "id": 9,
+        "embalagem": "https://m.media-amazon.com/images/I/61OkRJHus6L._AC_SX425_.jpg"
+      },
+      {
+        "marcas": "Huggies",
+        "tamanho": "M",
+        "id": 10,
+        "embalagem": "https://dmvfarma.vtexassets.com/arquivos/ids/172478/7896007548491_1.jpg?v=637598053584800000"
+      },
+      {
+        "marcas": "Cremer",
+        "tamanho": "G",
+        "id": 11,
+        "embalagem": "https://m.media-amazon.com/images/I/71EJg6v2t4S._AC_SL1500_.jpg"
+      },
+      {
+        "marcas": "Personal",
+        "tamanho": "XG",
+        "id": 12,
+        "embalagem": "https://dmvfarma.vtexassets.com/arquivos/ids/172637/7896110005706_1.jpg?v=637598053924730000"
+      }
+    ]
+  }
